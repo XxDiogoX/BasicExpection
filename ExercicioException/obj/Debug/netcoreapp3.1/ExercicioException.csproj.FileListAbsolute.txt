@@ -1,0 +1,14 @@
+C:\Exercicios C#\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.exe
+C:\Exercicios C#\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.deps.json
+C:\Exercicios C#\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.runtimeconfig.json
+C:\Exercicios C#\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.runtimeconfig.dev.json
+C:\Exercicios C#\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.dll
+C:\Exercicios C#\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.pdb
+C:\Exercicios C#\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.csproj.AssemblyReference.cache
+C:\Exercicios C#\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercicios C#\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.AssemblyInfoInputs.cache
+C:\Exercicios C#\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.AssemblyInfo.cs
+C:\Exercicios C#\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.csproj.CoreCompileInputs.cache
+C:\Exercicios C#\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.dll
+C:\Exercicios C#\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.pdb
+C:\Exercicios C#\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.genruntimeconfig.cache
